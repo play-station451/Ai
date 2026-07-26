@@ -7,7 +7,7 @@ import nest_asyncio
 
 nest_asyncio.apply()
 
-MODEL_DIR = "play451/r3tard"
+MODEL_DIR = "play451/R3tard"
 MAX_NEW_TOKENS = 60
 MIN_NEW_TOKENS = 3
 TEMPERATURE = 1.0
